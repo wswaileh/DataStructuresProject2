@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1523040251 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#2\readfromfile.c
+	<stdio.h>
+
+1523319462 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"stack.h"
+
+1523294367 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#2\stack.h
+
+1523037105 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#2\linkedlist.h
+
+1555968349 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"stack.h"
+
+1523283750 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 2\stack.h
+
